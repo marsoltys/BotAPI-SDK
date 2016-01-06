@@ -7,10 +7,6 @@
     "keywords": ["gadu gadu", "gg", "SDK", "Bot", "API"],
     "license": "LGPL-3.0",
 
-    "require": {
-        "yiisoft/yii2": "*"
-    },
-
     "autoload": {
         "psr-4": {
             "yii\\imagine\\": ""
